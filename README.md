@@ -1,69 +1,55 @@
-# 👋 Hi there! Welcome to My GitHub
+# Hi there! 👋 Welcome to My GitHub Profile
 
 ![Header GIF](https://user-images.githubusercontent.com/placeholder/header.gif)
 
-I'm a **Python Developer** with 4+ years of experience in building scalable APIs, cloud automation, and data-centric systems. I specialize in backend development using Django and Flask, cloud workflows on AWS, and delivering ML-based solutions for real-world use cases.
+I'm a **Software Developer** with a passion for building scalable backend systems, automating workflows, and working on real-world machine learning projects.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 💻 Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🐍 Programming & Backend
+- **Languages**: Python
+- **Frameworks**: Django, Flask, Django REST Framework
+- **Cloud**: AWS (Lambda, S3, Textract, RDS)
+- **Databases**: MySQL, PostgreSQL, MSSQL
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🤖 Machine Learning Projects
-
-- 👁️ **Real-Time Person Tracking**:  
-   Developed a real-time multi-object tracking system using **YOLOv8 + Deep SORT** for identifying and tracking people across frames.  
-   📎 [GitHub Repo](https://github.com/Mann10/Real-Time-Person-Tracking-with-YOLOv8-Deep-SORT)
+### 🧠 Machine Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0F0F0F?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ---
 
-## 🏢 Company Projects (Private Repos)
+## 📜 Certifications
 
-- 🧠 **Document Classification (Company Project)**  
-   Built a CNN model using **InceptionV3 and transfer learning** to classify standardized TLF documents. Achieved **80% accuracy**, reducing manual processing and improving data labeling speed.
-
----
-
-## 🏆 Certifications
-
-- **AWS Certified Solutions Architect – Associate**
+- 🏆 **AWS Certified Solutions Architect – Associate**
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 1. **[Poll & Survey App](https://github.com/Mann10/poll_survey_project)**  
-   A Django + DRF-based survey platform with JWT auth, poll creation, analytics, and full API documentation. Uses Matplotlib for charting results.
+   Robust Django + DRF app for user polls with JWT auth, analytics via Matplotlib, custom permissions, and interactive results dashboard.
 
 2. **[Social Media API](https://github.com/Mann10/social-media-api)**  
-   A RESTful API for core social features like registration, posting, liking, commenting, and filtering posts—built with Django REST Framework.
+   RESTful API allowing user registration, posts, likes, comments, and retrieval — built with Django REST Framework for scalability.
 
-3. **[YOLOv8 Person Tracking](https://github.com/Mann10/Real-Time-Person-Tracking-with-YOLOv8-Deep-SORT)**  
-   Real-time multi-person tracking using YOLOv8 and Deep SORT—ideal for surveillance, crowd monitoring, and other computer vision tasks.
+3. **[Real-Time Person Tracking with YOLOv8 & Deep SORT](https://github.com/Mann10/Real-Time-Person-Tracking-with-YOLOv8-Deep-SORT)**  
+   A computer vision pipeline to track people in video streams using YOLOv8 and Deep SORT for real-time detection and ID assignment.
+
+4. **Document Classification Model** *(Internal Project @ TCS)*  
+   Developed a CNN-based model with InceptionV3 using transfer learning, achieving 80% accuracy in classifying standardized documents.
 
 ---
 
-## 💬 Let’s Connect
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannlimbachiya/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mann10)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LimbachiyaMann1)
-
----
-
-⭐️ Thanks for visiting!

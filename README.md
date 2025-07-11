@@ -10,7 +10,7 @@ I'm a **Software Developer** with a passion for building scalable backend system
 
 ### 🐍 Programming & Backend
 - **Languages**: Python
-- **Frameworks**: Django, Flask, Django REST Framework
+- **Frameworks**: Django, FastAPI, Django REST Framework
 - **Cloud**: AWS (Lambda, S3, Textract, RDS)
 - **Databases**: MySQL, PostgreSQL, MSSQL
 

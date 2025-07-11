@@ -43,7 +43,10 @@ I'm a **Software Developer** with a passion for building scalable backend system
 3. **[Real-Time Person Tracking with YOLOv8 & Deep SORT](https://github.com/Mann10/Real-Time-Person-Tracking-with-YOLOv8-Deep-SORT)**  
    A computer vision pipeline to track people in video streams using YOLOv8 and Deep SORT for real-time detection and ID assignment.
 
-4. **Document Classification Model** *(Internal Project @ TCS)*  
+4. **[FastAPI-Async-S3](https://github.com/Mann10/fastapi-async-s3)** 
+   A high-performance asynchronous web service that downloads web pages and stores them in AWS S3, featuring background task processing, Docker containerization, and dev container support.
+
+6. **Document Classification Model** *(Internal Project @ TCS)*  
    Developed a CNN-based model with InceptionV3 using transfer learning, achieving 80% accuracy in classifying standardized documents.
 
 ---

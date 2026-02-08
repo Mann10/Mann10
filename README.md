@@ -25,9 +25,9 @@ Building scalable cloud systems and AI-powered backend solutions.
 
 | Project | Description |
 |---------|-------------|
+| [My Rag Pipeline](https://github.com/Mann10/my-rag-pipeline) | Rag pipeline |
 | [MCP-Hub](https://github.com/Mann10/MCP-Hub) | Model Context Protocol servers for AI agent architectures |
 | [Rice Quality Edge AI](https://github.com/Mann10/rice-quality-edge-ai) | Computer vision pipeline for real-time grain quality assessment |
-| [Poll & Survey Platform](https://github.com/Mann10/poll_survey_project) | Django app with JWT auth, analytics, and dashboards |
 
 ---
 

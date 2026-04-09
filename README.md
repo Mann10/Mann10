@@ -13,11 +13,11 @@ Building scalable cloud systems and AI-powered backend solutions.
 
 ## Technical Expertise
 
-**Backend & Cloud:** Python · FastAPI · Django · AWS (Lambda, ECS, Fargate, S3, SQS) · Docker · CI/CD · Celery
+**Backend & Cloud:** Python · FastAPI · Django · AWS (Lambda, ECS, Fargate, S3, SQS) · Docker · CI/CD · Celery · Kubernetes · Kserve · MLFlow · Kubeflow
 
-**AI/ML & GenAI:** LangChain · RAG · MCP · A2A Protocol · PyTorch · YOLOv8 · Streamlit
+**AI/ML & GenAI:** LangChain ·LangGraph · RAG · MCP · A2A Protocol · PyTorch · YOLOv8 · Streamlit 
 
-**Data:** PostgreSQL · Redis · MongoDB · ChromaDB · OpenSearch · Kafka
+**Data:** PostgreSQL · Redis · MongoDB · ChromaDB · OpenSearch · Kafka · Pinecone 
 
 ---
 
@@ -27,6 +27,7 @@ Building scalable cloud systems and AI-powered backend solutions.
 |---------|-------------|
 | [My Rag Pipeline](https://github.com/Mann10/my-rag-pipeline) | Rag pipeline |
 | [MCP-Hub](https://github.com/Mann10/MCP-Hub) | Model Context Protocol servers for AI agent architectures |
+| [E2E-MLOps](https://github.com/Mann10/mlops-e2e-pipeline) | End to End MLOPS Pipeline |
 | [Rice Quality Edge AI](https://github.com/Mann10/rice-quality-edge-ai) | Computer vision pipeline for real-time grain quality assessment |
 
 ---

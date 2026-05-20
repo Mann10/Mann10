@@ -25,10 +25,10 @@ Building scalable cloud systems and AI-powered backend solutions.
 
 | Project | Description |
 |---------|-------------|
-| [My Rag Pipeline](https://github.com/Mann10/my-rag-pipeline) | Rag pipeline |
+| [Postgres-Skill-Agent](https://github.com/Mann10/postgres-skill-agent) | Postgres Skill Agent |
 | [MCP-Hub](https://github.com/Mann10/MCP-Hub) | Model Context Protocol servers for AI agent architectures |
 | [E2E-MLOps](https://github.com/Mann10/mlops-e2e-pipeline) | End to End MLOPS Pipeline |
-| [Rice Quality Edge AI](https://github.com/Mann10/rice-quality-edge-ai) | Computer vision pipeline for real-time grain quality assessment |
+| [MCP-FAISS-ROUTER](https://github.com/Mann10/mcp-faiss-router) | Semantic retrieval pipeline for dynamic MCP tool routing |
 
 ---
 

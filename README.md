@@ -25,6 +25,7 @@ Building scalable cloud systems and AI-powered backend solutions.
 
 | Project | Description |
 |---------|-------------|
+| [AgentHarness](https://github.com/Mann10/AgentHarness) | Building my own agent harness from scratch |
 | [Postgres-Skill-Agent](https://github.com/Mann10/postgres-skill-agent) | Postgres Skill Agent |
 | [Multi-Tenant-Agentic-Rag-As-a-Service](https://github.com/Mann10/Multi-Tenant-Agentic-Rag-as-a-Service) | Agentic Rag as a service supporting multitenat's |
 | [E2E-MLOps](https://github.com/Mann10/mlops-e2e-pipeline) | End to End MLOPS Pipeline |

@@ -1,6 +1,6 @@
 # Mann Limbachiya
 
-**Senior Software Engineer | GenAI Developer | AWS Certified Solutions Architect**
+**AI Engineer | GenAI Developer | AWS Certified**
 
 Building scalable cloud systems and AI-powered backend solutions.
 
@@ -33,6 +33,9 @@ Building scalable cloud systems and AI-powered backend solutions.
 ---
 
 ## Certification
+
+<img src="https://images.credly.com/size/110x110/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" width="80" alt="AWS Certified Generative AI Developer Badge" />
+🏆 AWS Certified Generative AI Developer – Professional
 
 <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" alt="AWS SAA Badge" />
 🏆 AWS Certified Solutions Architect – Associate

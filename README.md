@@ -1,6 +1,6 @@
 # Mann Limbachiya
 
-**AI Engineer | GenAI Developer | AWS Certified**
+**AI Engineer | AWS Certified**
 
 Building scalable cloud systems and AI-powered backend solutions.
 
